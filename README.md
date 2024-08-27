@@ -1,4 +1,4 @@
-# Sanskrit Knowledge Accessor
+<h1 style="text-align:center">Sanskrit Knowledge Accessor</h1>
 
 This is the central repository for all the resources related to the ongoing Sanskrit Knowledge Acessor (SKA) project. 
 
@@ -27,3 +27,4 @@ Resources related to each sub-group and individual task can be found under their
 ##	E-readers - Mahabharata \[Ashramavasika Parva\]	(Dr. Arjuna)
 
 ##	Ontology for BPN	(Dr. Arnab Bhattacharya)
+
