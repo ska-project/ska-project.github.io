@@ -16,6 +16,8 @@ Resources related to each sub-group and individual task can be found under their
 
 ###	E-readers	(Dr. Amba Kulkarni)
 
+- http://scl.samsaadhanii.in/scl/e-readers/sankshepa_ramayanam/index.html
+
 ###	NER (Dr. Pawan Goyal)
 
 ###	Compound Analyser (Dr. Pavankumar)
